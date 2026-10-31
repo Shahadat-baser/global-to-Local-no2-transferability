@@ -1,0 +1,19 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Shahadat Baser, Muhammad Bilal, Bassam S. Tawabini,
+Ardiansyah Koeshidayatullah
+
+This licence covers the DERIVED datasets produced by this pipeline: the
+assembled city-month tables (datasets A, B and C), the fitted model files, the
+surface NO2 estimates for the 100 target cities, and the figures.
+
+You are free to share and adapt this material for any purpose, including
+commercially, provided you give appropriate credit, link to the licence, and
+indicate if changes were made.
+
+Full licence text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+SOURCE DATA ARE NOT COVERED BY THIS LICENCE. Sentinel-5P, MERRA-2, GHSL and the
+four ground-monitoring networks each remain under their own terms, which are
+listed in README.md under "Data availability". Users of the derived datasets
+must observe those terms for any onward use of the underlying observations.

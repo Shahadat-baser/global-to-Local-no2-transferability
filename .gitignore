@@ -1,0 +1,25 @@
+# Data and outputs are archived separately, not committed
+data/
+figures/
+*.parquet
+*.gpkg
+*.joblib
+*.npy
+
+# Credentials - never commit
+.env
+*.key
+.config/earthengine/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS and editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

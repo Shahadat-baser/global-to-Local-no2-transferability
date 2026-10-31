@@ -1,0 +1,83 @@
+cff-version: 1.2.0
+message: >-
+  If you use this code or the derived datasets, please cite both the software
+  (this repository, via its Zenodo DOI) and the paper listed under
+  preferred-citation.
+title: >-
+  Air quality estimation failure in scarcest monitoring networks: analysis
+  pipeline
+abstract: >-
+  Pipeline and analysis code for a study of the transferability of
+  satellite-to-surface NO2 inversion across 128 cities and four national
+  monitoring networks. The code assembles a harmonised database from Sentinel-5P
+  TROPOMI NO2 columns, MERRA-2 meteorology, Global Human Settlement Layer urban
+  morphology and ground observations; fits a climate-gated two-stage
+  gradient-boosted model under a validation protocol fixed before modelling;
+  and produces surface NO2 estimates for 100 cities with two independent
+  confidence measures.
+type: software
+license: MIT
+version: 1.0.0
+date-released: "2026-11-01"
+
+authors:
+  - family-names: Baser
+    given-names: Shahadat
+    affiliation: >-
+      Department of Geosciences, College of Petroleum Engineering and
+      Geosciences, King Fahd University of Petroleum and Minerals, Dhahran,
+      Saudi Arabia
+    orcid: "0000-0002-3011-9251"
+  - family-names: Bilal
+    given-names: Muhammad
+    affiliation: >-
+      Architecture and City Design Department, College of Design and Built
+      Environment, and Center for Aviation and Space Exploration, King Fahd
+      University of Petroleum and Minerals, Dhahran, Saudi Arabia
+    orcid: "0000-0003-1022-3999"
+  - family-names: Tawabini
+    given-names: Bassam S.
+    affiliation: >-
+      Department of Geosciences, College of Petroleum Engineering and
+      Geosciences, King Fahd University of Petroleum and Minerals, Dhahran,
+      Saudi Arabia
+    orcid: "0000-0002-0096-2723"
+  - family-names: Koeshidayatullah
+    given-names: Ardiansyah
+    affiliation: >-
+      Department of Geosciences, College of Petroleum Engineering and
+      Geosciences, King Fahd University of Petroleum and Minerals, Dhahran,
+      Saudi Arabia
+    orcid: "0000-0001-7558-8783"
+
+keywords:
+  - tropospheric nitrogen dioxide
+  - Sentinel-5P TROPOMI
+  - surface air quality
+  - machine learning
+  - model transferability
+  - spatial cross-validation
+  - arid regions
+  - uncertainty quantification
+
+repository-code: ""
+url: ""
+doi: ""
+
+preferred-citation:
+  type: article
+  title: >-
+    Air quality estimation failure in scarcest monitoring networks: a
+    climate-dependent limit on satellite-to-surface NO2 inversion
+  journal: Atmospheric Measurement Techniques
+  year: 2026
+  doi: ""
+  authors:
+    - family-names: Baser
+      given-names: Shahadat
+    - family-names: Bilal
+      given-names: Muhammad
+    - family-names: Tawabini
+      given-names: Bassam S.
+    - family-names: Koeshidayatullah
+      given-names: Ardiansyah
